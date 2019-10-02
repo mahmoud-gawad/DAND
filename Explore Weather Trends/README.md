@@ -6,4 +6,4 @@ In this project, it is required to analyze local and global temperature data and
 
 ## Full Report
 
-The full report of the project can be found [here](Report/Weather%20Trends%20Report.pdf).
+The full report of the project can be found [here](Weather%20Trends%20Report.pdf).
