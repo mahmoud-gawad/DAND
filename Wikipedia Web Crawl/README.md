@@ -33,3 +33,9 @@ The final output would be one of 4 cases:
 * Finally, the program could find itself in a loop, when the article chain keeps repeating itself, then the program stops and prints a message indicating that.
 
 In each case, the article chain leading to one of the cases above is printed before the message that tells us what the final status of the program is.
+
+## Key Takeaways
+
+* Getting comfortable with using SQL queries to get the required data.
+* Gaining experience with spreadsheets equations and graphs.
+* Getting the ability to analyze data charts and extracting useful information and insights from it.
